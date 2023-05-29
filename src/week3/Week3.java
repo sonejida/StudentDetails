@@ -16,6 +16,7 @@ public class Week3 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Learning github operations");
+        System.out.println("push github operations");
     }
     
 }
