@@ -17,7 +17,8 @@ public class Week3 {
         // TODO code application logic here
         System.out.println("Learning github operations");
             System.out.println("push github operations");
-                System.out.println("pull github operations");
+                 System.out.println("pull github operations");
+        System.out.println("fetch and merge github operations");
     }
     
 }
